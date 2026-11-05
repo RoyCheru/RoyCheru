@@ -18,7 +18,9 @@ I'm particularly interested in building scalable applications, business manageme
 ## 🚀 Featured Projects
 
 ### 1. MediFlow – Healthcare Management Platform
+<img width="1307" height="602" alt="Screenshot 2026-11-02 161201" src="https://github.com/user-attachments/assets/1b4c23d2-67ed-41b2-8fe9-62ee2a7ff3ec" />
 
+Live link: https://mediflow-hospital-rho.vercel.app/
 A healthcare management platform designed to streamline interactions between patients, doctors, and administrators. Features include appointment booking, consultations, patient management, and healthcare-related workflows.
 
 **Technologies:** Python, Flask, React, Next.js, TypeScript, PostgreSQL
