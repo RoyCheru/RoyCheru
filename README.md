@@ -1,45 +1,63 @@
 # Hi, I'm Roy Cheruiyot 👋
 
-### Software Engineering Trainee | Aspiring Software Developer
+### Full-Stack Software Developer | Building Practical Software Solutions
 
-I am a software engineering trainee with a foundation in full-stack web development. I enjoy building practical applications, solving problems, and continuously improving my technical skills.
+I'm a software developer with a background in software engineering and experience building full-stack web applications. I enjoy turning real-world problems into practical software solutions, developing user-friendly interfaces, designing backend systems, and integrating APIs.
 
-## 🛠️ Technologies
+I'm particularly interested in building scalable applications, business management systems, and AI-powered solutions.
 
-- **Languages:** Python, JavaScript, TypeScript, SQL
-- **Backend:** Flask, SQLAlchemy, REST APIs
-- **Frontend:** React, Next.js
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, JavaScript, TypeScript, SQL, Go
+- **Backend:** Flask, Nodejs, Go (Fiber), REST APIs, SQLAlchemy
+- **Frontend:** React, Next.js, Tailwind CSS
 - **Databases:** PostgreSQL, SQLite
-- **Tools:** Git, GitHub, Docker
+- **Tools & Platforms:** Git, GitHub, Bitbucket, Docker, Postman
+- **Other:** API Integration, Authentication, Responsive UI Development, AI Integration
 
 ## 🚀 Featured Projects
 
-### GynoCare
-https://github.com/RoyCheru/Gyno-Care-Modern-Platform
-A healthcare consultation and appointment booking platform.
+### 1. MediFlow – Healthcare Management Platform
 
-**Technologies:** Python, Flask, React, Next.js, TypeScript, Postgresql
+A healthcare management platform designed to streamline interactions between patients, doctors, and administrators. Features include appointment booking, consultations, patient management, and healthcare-related workflows.
 
-### MiniTrack
-https://github.com/RoyCheru/Mini-Track
-A school transport booking and tracking system.
+**Technologies:** Python, Flask, React, Next.js, TypeScript, PostgreSQL
 
-**Technologies:** Next.js, TypeScript, Flask, PostgreSQL
+### 2. Precision Desk – Enterprise Workforce Management System
 
-### Rental Management System
-https://github.com/RoyCheru/RENTAL-MANAGEMENT-SYSTEM
-A system for managing properties, tenants, leases, rent charges, and payments.
+An enterprise platform designed to support workforce operations, agent availability management, location tracking, tenant management, audit logging, and escalation workflows.
 
-**Technologies:** Python, Flask, React, TypeScript, Postgresql
+**Technologies:** JavaScript, Node.js, Express.js, PostgreSQL, Redis, RabbitMQ
 
-## 🌱 Currently Learning
+### 3. TierData SMS – SMS Campaign & CRM Platform
+
+An SMS campaign and customer relationship management platform that enables businesses to manage contacts, send bulk SMS campaigns, track message delivery, and monitor campaign performance. Includes provider configuration, email/SMTP settings, and administrative features.
+
+**Technologies:** Go, Fiber, PostgreSQL, React, TypeScript
+
+### 4. Urbanite Farm – Farm Business Platform
+
+A digital platform for an agricultural business, showcasing farm products and providing customers with an accessible way to explore products and connect with the business.
+
+**Technologies:** React, Next.js, TypeScript, Tailwind CSS
+
+## 🌱 Currently Learning & Exploring
 
 - Software testing and quality assurance
-- Docker and CI/CD
-- Cloud deployment
-- AI integration into software applications
+- Docker, CI/CD, and deployment workflows
+- Cloud infrastructure and scalable application architecture
+- AI integration and AI-powered application development
+- Backend development and system design
 
-## 📫 Connect with me
+## 🎯 My Interests
 
-- LinkedIn: www.linkedin.com/in/roy-cheruiyot-86b76b22b
-- Email: roycheruiyot168@gmail.com
+- Full-Stack Web Development
+- Backend Engineering
+- AI-Powered Applications
+- SaaS Development
+- Building Technology Solutions for Real-World Problems
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on meaningful projects, learning new technologies, and connecting with other developers.
+
