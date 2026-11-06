@@ -33,7 +33,7 @@ An enterprise platform designed to support workforce operations, agent availabil
 **Technologies:** JavaScript, Node.js, Express.js, PostgreSQL, Redis, RabbitMQ
 
 ### 3. TierData SMS – SMS Campaign & CRM Platform
-
+Live Link: https://tierdata-sms.vercel.app/
 <img width="1349" height="634" alt="Screenshot 2026-11-05 135220" src="https://github.com/user-attachments/assets/03441396-9174-4e6e-897d-914ce2907f8a" />
 
 
@@ -42,6 +42,9 @@ An SMS campaign and customer relationship management platform that enables busin
 **Technologies:** Go, Fiber, PostgreSQL, React, TypeScript
 
 ### 4. Urbanite Farm – Farm Business Platform
+Live Link: https://urbanite-farm-ventures.vercel.app/
+<img width="1346" height="633" alt="Screenshot 2026-11-02 162256" src="https://github.com/user-attachments/assets/0e148c68-0338-4383-bbb7-e4da7d6c1cb5" />
+
 
 A digital platform for an agricultural business, showcasing farm products and providing customers with an accessible way to explore products and connect with the business.
 
